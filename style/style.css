@@ -133,3 +133,74 @@ iframe{
 .no-bg{
     background-color: #ffffff;
 }
+.target{
+    margin: 80px 0px;
+}
+.skills-box{
+    display: flex;
+    gap: 20px;
+}
+.single-skill{
+    border-radius: 10px;
+    background-color: aqua;    padding: 40px;
+}
+.single-skill h3{
+    margin: 15px 0px;
+}
+.single-skill p{
+    margin-bottom: 10px;
+}
+.single-skill a{
+    color: #0D1321;
+}
+.single-skill:nth-child(1){
+
+background-color: #f4dbd4;
+}
+.single-skill:nth-child(2){
+background-color: #d7e2f7;
+}
+.single-skill:nth-child(3){
+background-color: #faf8e5;
+}
+.box-border{
+    border: 1px solid #b7b7b7;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.support-bg{
+    background-image: url('/assets/handshake.jpg');
+    border-radius: 20px;
+    padding: 64px;
+}
+.support-bg h3{
+font-size: 32px;
+}
+.support-bg h3, .support-bg p{
+    color: #ffffff;
+}
+input[type=text] {
+    border: 2px solid rgb(180, 180, 180);
+    border-radius: 4px;
+    padding: 19px;
+    font-size: 16px;
+    width: 60%;
+  }
+  input[type=submit] {
+    border: 2px solid rgb(180, 180, 180);
+    border-radius: 4px;
+    padding: 19px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  .footerbox{
+    display: flex;
+    justify-content: space-between;
+  }
+  footer{
+    margin: 32px 0px;
+  }
+  .social-box a{
+    text-decoration: none;
+  }
