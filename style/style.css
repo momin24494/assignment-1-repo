@@ -78,3 +78,47 @@ font-weight: 900;
     color: #0D1321;
 }
 
+.development{
+    margin: 50px 0px;
+    
+}
+.box-bg{
+    background: #fafafb;
+    padding: 80px;
+}
+.sec-des{
+    background: #fafafb;
+    border-radius: 10px;
+    
+}
+.sec-des h3{
+    font-size: 32px;
+    color: #0D1321;
+}
+.sec-des p{
+    font-size: 16px;
+    color: #0D1321;
+}
+.box-wrap{
+    padding: 48px;
+    background: #ffffff;
+    border-radius: 10px;
+    margin: 25px 0px;
+    display: flex;
+    gap: 50px;
+    
+}
+.box-wrap h4{
+    font-size: 24px;
+    line-height: 36px;
+}
+.box-wrap p{
+    font-size: 16px;
+    margin: 16px 0px;
+}
+.box-wrap button{
+    font-size: 20px;
+    color: #0D1321;
+    padding: 12px;
+    border-radius: 5px;
+}
