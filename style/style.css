@@ -122,3 +122,14 @@ font-weight: 900;
     padding: 12px;
     border-radius: 5px;
 }
+.video-box{
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 32px;
+}
+iframe{
+    border-radius: 15px;
+}
+.no-bg{
+    background-color: #ffffff;
+}
